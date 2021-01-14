@@ -19,6 +19,7 @@ nav:
     - Core development:
         - Getting Started: core/getting-started.md
         - Coding Style: core/coding-style.md
+        - Inventory: core/inventory.md
     - Console development:
         - Getting Started: console/getting-started.md
         - Coding Style: console/coding-style.md
